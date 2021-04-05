@@ -1,0 +1,59 @@
+/*font-family: 'New Tegomin', serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Noto Serif', serif; 
+yellow = #f0ed3a
+green = #5dd12c*/
+
+body{
+    font-family: 'Noto Serif', serif;
+    background-color: #000;
+    color: #f0ed3a;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'New Tegomin', serif;
+}
+h2{
+    font-size: 36px;
+}
+h3{
+    font-size: 24px;
+}
+nav{
+    margin: 50px;
+}
+a {
+    color: #5dd12c;
+}
+.center{
+    text-align: center;
+}
+.spacer{
+    height: 20px;
+    background-color: #f0ed3a;
+}
+.spacer2{
+    height: 20px;
+    background-color: #5dd12c;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.navLink{
+    color: #5dd12c;
+    font-size: 24px;
+}
+#logo{
+    max-width: 300px;
+    display: flex;
+    float: right;
+    margin: 50px;
+}
+#contactLink{
+    margin-left: 50px;
+    display: block;
+}
